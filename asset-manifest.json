@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/freedomfighterindia/static/css/main.44a76756.css",
+    "main.js": "/freedomfighterindia/static/js/main.f417f42b.js",
+    "index.html": "/freedomfighterindia/index.html",
+    "main.44a76756.css.map": "/freedomfighterindia/static/css/main.44a76756.css.map",
+    "main.f417f42b.js.map": "/freedomfighterindia/static/js/main.f417f42b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a76756.css",
+    "static/js/main.f417f42b.js"
+  ]
+}
